@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #fff;
+    background-color: ##3498DB;
     font-family: "Lucida Grande", "Helvetica Neue", Roboto, "Droid Sans", Prelude, Helvetica, Arial, sans-serif;
     font-size: 100%;
     color: #334;
@@ -21,7 +21,7 @@ section.congratulations {
     right: 50%;
     bottom: 0;
     border-right: 6px solid #ace;
-    background-color: #79b;
+    background-color: #A79B98;
     background-image: -webkit-gradient(linear, left top, right top, from(#79b), to(#79b));
     background-image: -webkit-linear-gradient(left, #9bd, #79b);
     background-image: -moz-linear-gradient(left, #9bd, #79b);

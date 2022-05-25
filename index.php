@@ -10,16 +10,6 @@ else
 ?>
 <!doctype html>
 
-<head>
-<style>
-body {
-  background-color: gray
- ;
-}
-</style>
-</head>
-<body>
-
 
 
 <html lang="en">
