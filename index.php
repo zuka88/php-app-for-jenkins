@@ -9,6 +9,19 @@ else
 {
 ?>
 <!doctype html>
+
+<head>
+<style>
+body {
+  background-color: gray
+ ;
+}
+</style>
+</head>
+<body>
+
+
+
 <html lang="en">
 <head>
     <meta charset="utf-8">
@@ -54,12 +67,4 @@ else
 } 
 ?>
 
-<head>
-<style>
-body {
-  background-color: gray
- ;
-}
-</style>
-</head>
-<body>
+
