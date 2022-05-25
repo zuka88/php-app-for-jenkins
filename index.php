@@ -53,3 +53,8 @@ else
 <? 
 } 
 ?>
+body {
+  background-color: gray
+ ;
+} 
+
